@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akther2034165
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning core java programming
-- 💞️ I’m looking to collaborate on java development
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
 http://www.facebook.com/nirjhor.nowshad
 
